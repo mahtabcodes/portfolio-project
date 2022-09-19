@@ -90,6 +90,32 @@ footer {
 .end-note-link:hover {
   color: #a72e75;
 }
+.about-text {
+  background-color: #2f365a;
+  margin: 20px;
+  padding: 18px;
+  border-radius: 24px;
+  box-shadow: 0 0 30px black;
+}
+.about-text p {
+  color: #a3c7d5;
+  font-family: "Poppins", sans-serif;
+  font-size: 13px;
+}
+.skills-section {
+  background-color: #2f365a;
+  margin: 0 auto;
+  padding: 18px;
+  border-radius: 24px;
+  box-shadow: 0 0 30px black;
+  max-width: 90%;
+}
+label {
+  font-family: "Poppins", sans-serif;
+  font-size: 13px;
+  color: #e77d95;
+}
+
 @media (min-width: 900px) {
   .project-container {
     margin-left: 8%;
